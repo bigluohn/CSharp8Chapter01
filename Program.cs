@@ -6,7 +6,7 @@ namespace HelloCS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello CS!");
+            Console.WriteLine("Hello CS, are you ok!");
         }
     }
 }
